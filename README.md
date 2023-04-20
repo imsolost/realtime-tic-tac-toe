@@ -1,5 +1,7 @@
 # realtime-tic-tac-toe
-Tic Tac Toe using the Wix Realtime API 
+Tic Tac Toe using the Wix Realtime API.
+
+Using this API, multiple players can play Tic-Tac-Toe against one another on different machines.
 
 Working site can be found here: https://ryanakent.wixsite.com/realtime-tic-tac-toe
 
