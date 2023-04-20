@@ -1,0 +1,8 @@
+import { publish } from 'wix-realtime-backend';
+
+export const sendData = (name, data) => {
+  const channel = { name }
+  const payload = { data }
+
+  publish(channel, payload)
+}
